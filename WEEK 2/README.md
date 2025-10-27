@@ -10,6 +10,8 @@ Install : mongodb (https://www.mongodb.com/try/download/community)
           mongodb compass (https://www.mongodb.com/try/download/compass)
 Install mongodb polosan (jangan sekalian dengan mongodb compass, lalu install mongodb compass secara terpisah)
 
+Pada VSCODE download plugin EchoAPI for VSCODE untuk testing API (alternatif lain bisa menggunakan POSTMAN)
+
 Pada folder src, buatlah folder :
   - controllers
   - middlewares
